@@ -9,7 +9,7 @@ This program uses the webcam as the video source in order to detect faces and ey
 #How to Run this project
 Download the entire project folder and extract all files in the folder. Run the .py file and ensure that the xml files are in the same folder as the .py file.
 Another window would open up and this is how the detection would look like
- 
+
 
 #How to exit the program
 Press the ‘q’ key on your keyboard to stop the program from running.
